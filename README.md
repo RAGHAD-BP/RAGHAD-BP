@@ -28,13 +28,9 @@ Hi! I'm **Raghad AlSuwayhi**, a **computer science student** ⭐
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAGHAD-BP&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAGHAD-BP&hide_border=true&border_radius=10&background=F8EDE3&ring=B799FF&fire=C89FEB&currStreakNum=6C4AB6&sideNums=6C4AB6&currStreakLabel=6C4AB6&sideLabels=6C4AB6&dates=AE8FBF&excludeDaysLabel=true" alt="GitHub Streak" /> 
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAGHAD-BP&hide_border=true&border_radius=10&background=F8EDE3&ring=B799FF&fire=C89FEB&currStreakNum=6C4AB6&sideNums=6C4AB6&currStreakLabel=6C4AB6&sideLabels=6C4AB6&dates=AE8FBF&excludeDaysLabel=true" alt="GitHub Streak" /> 
 </p>
