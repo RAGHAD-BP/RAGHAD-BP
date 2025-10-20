@@ -34,9 +34,3 @@ Hi! I'm **Raghad AlSuwayhi**, a **computer science student** ⭐
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP&layout=compact&theme=react&border_radius=10" alt="Top Languages"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RAGHAD-BP.RAGHAD-BP" alt="visitor badge"/>
-</p>
