@@ -1,7 +1,7 @@
 ## Hey there, I'm Raghad! 👋
 
 <p align="center">
-  <code><a href="www.linkedin.com/in/raghad-alsuwayhi-976b38307" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="www.linkedin.com/in/raghad-alsuwayhi-976b38307" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
 </p>
 
 ---
