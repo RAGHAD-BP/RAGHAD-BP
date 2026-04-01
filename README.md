@@ -28,6 +28,6 @@ To visit My website click [here](https://raghadwebsite.netlify.app/)
 
 ###  GitHub Stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?RAGHAD-BP=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAGHAD-BP)](https://github.com/anuraghazra/github-readme-stats)
 
 
