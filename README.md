@@ -28,7 +28,6 @@ To visit My website click [here](https://raghadwebsite.netlify.app/)
 
 ###  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP&stats_format=bytes" alt="Top Langs"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP\&stats_format=bytes)
+
 
