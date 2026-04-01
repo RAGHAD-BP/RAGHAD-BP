@@ -28,6 +28,6 @@ To visit My website click [here](https://raghadwebsite.netlify.app/)
 
 ###  GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP\&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP&stats_format=bytes)
 
 
