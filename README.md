@@ -23,11 +23,3 @@ To visit My website click [here](https://raghadwebsite.netlify.app/)
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>
 </p>
-
----
-
-###  GitHub Stats
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAGHAD-BP)](https://github.com/RAGHAD-BP)
-
-
