@@ -26,6 +26,8 @@ To visit My website click [here](https://raghadwebsite.netlify.app/)
 
 ---
 
-### Top languages 
+### Streak
+<p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RAGHAD-BP&theme=dark&border_radius=6" alt="GitHub Streak" /></a>
+</p>
 
