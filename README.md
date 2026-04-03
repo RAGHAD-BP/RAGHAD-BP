@@ -27,5 +27,5 @@ To visit My website click [here](https://raghadwebsite.netlify.app/)
 ---
 
 ### Top languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP&layout=compact&theme=transparent&title_color=ff79c6&text_color=ffffff)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RAGHAD-BP&theme=dark&border_radius=6" alt="GitHub Streak" /></a>
 
