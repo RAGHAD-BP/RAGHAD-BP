@@ -27,5 +27,6 @@ To visit My website click [here](https://raghadwebsite.netlify.app/)
 ---
 
 ### Top languages 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHAD-BP&layout=compact&langs_count=8&theme=radical" />
+</p>
